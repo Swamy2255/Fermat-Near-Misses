@@ -8,11 +8,11 @@ External Files Created: None
 
 Programmers:
 
-Swamy Gorla
+Swamy Gorla,
 Suresh Reddy Muvva
 Email Addresses:
 
-swamygorla@lewisu.edu
+swamygorla@lewisu.edu,
 sureshreddymuvva@lewisu.edu
 Course Number and Section: FA24-CPSC-60500-002
 
@@ -24,6 +24,11 @@ Resources Used:
 
 Python Documentation for built-in functions: https://docs.python.org/3/
 Math library reference for exponentiation: https://docs.python.org/3/library/math.html """
+
+
+
+
+
 
 import math
 
